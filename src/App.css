@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.My-header {
+  background-color: rgb(185, 116, 37);
+  font-family: 'Kanit', sans-serif;
+  text-align:  center;
+}
+
+.My-footer {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:  center;
+}
+
+.My-content {
+  background-color: rgb(211, 153, 45);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 2em;
+  border-radius: 15px;
+  border: 2px solid rgb(7, 7, 7);
+  margin-bottom: 1em;
+  text-align: center;
+}
